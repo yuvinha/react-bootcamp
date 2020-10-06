@@ -1,3 +1,6 @@
+# 02-Dice
+![02-dice](https://user-images.githubusercontent.com/45850190/95260045-c0bd0e80-0830-11eb-8ddb-7e153b1de530.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

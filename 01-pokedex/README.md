@@ -1,3 +1,6 @@
+# 01-Pokedex
+![01-pokedex](https://user-images.githubusercontent.com/45850190/95259915-923f3380-0830-11eb-96dc-8e7d4c811dcb.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
