@@ -1,0 +1,22 @@
+.ColorBox {
+  cursor: pointer;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  height: 160px;
+  color: white;
+  text-transform: uppercase;
+}
+
+.ColorBox h2 {
+  display: block;
+  font-size: 20px;
+}
+
+.ColorBox span {
+  display: block;
+  font-size: 12px;
+  margin-top: -7px;
+}

@@ -1,0 +1,36 @@
+.RollDice {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.RollDice-dice {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+}
+
+.RollDice-btn {
+  cursor: pointer;
+  outline: none;
+  padding: 1.4rem 2.4rem;
+  border: none;
+  border-radius: .5rem;
+  background-color: lightcoral;
+  color: white;
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  transition: all .3s ease-out;
+}
+
+.RollDice-btn:hover {
+  filter: brightness(90%);
+}
+
+.RollDice-btn:disabled {
+  cursor: initial;
+  filter: brightness(140%);
+}
