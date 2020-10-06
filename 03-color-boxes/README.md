@@ -1,3 +1,6 @@
+# 03-Color Boxes
+![03-color-boxes](https://user-images.githubusercontent.com/45850190/95260101-dcc0b000-0830-11eb-8f88-d065bef80643.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
