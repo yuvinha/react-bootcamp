@@ -1,6 +1,8 @@
 # Modern React Bootcamp
 Course projects for the Colt Steele's [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/course/modern-react-bootcamp/) course on Udemy
-> Status: In Progress
+
+- Course Info: 312 lectures, 38h 48m videos
+- Progress: 25% completed
 
 ## Apps
 > Each project directory contains screenshots/GIFs.
